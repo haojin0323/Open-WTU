@@ -10,7 +10,13 @@
 - 代码
 - 试卷
 - 额外相关资料
-- 课程说明文件.md
+- 课程说明文件
+
+
+
+**课外学习资料文件夹基本同上**
+
+内容可追加和编号，修改和移除操作请慎重处理。
 
 
 
@@ -22,6 +28,6 @@
 
 [QSCTech/zju-icicles: 浙江大学课程攻略共享计划 (github.com)](https://github.com/QSCTech/zju-icicles)
 
-[PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (github.com)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+[PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 (github.com)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 [USTC-Resource/USTC-Course: :heart:中国科学技术大学课程资源 (github.com)](https://github.com/USTC-Resource/USTC-Course)
